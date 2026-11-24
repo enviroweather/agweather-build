@@ -1,0 +1,1 @@
+import{G as e}from"./KQ7aIDcB.js";e();
